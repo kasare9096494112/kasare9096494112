@@ -15,7 +15,7 @@ Here are some ideas to get you started: -->
 
 <img  src="./side.gif" height="290px" align="right" />
 
-- 🙋‍♂️ All about me is at **[My Website](https://kasare9096494112.github.io/CodeWithSurya.github.io/)**
+- 🙋‍♂️ All about me is at **[My Website](https://kasare9096494112.github.io/portfolio)**
 
 - 🔭 I’m currently working on `Something Intresting`.
 
