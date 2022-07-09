@@ -10,7 +10,7 @@
 
 <img  src="./side.gif" height="290px" align="right" />
 
-- 🙋‍♂️ All about me is at **[My Website](https://kasare9096494112.github.io/portfolio)**
+- 🙋‍♂️ All about me is at **[My Website](https://surykantkasare.github.io/portfolio)**
 
 - 🔭 I’m currently working on `Something Intresting`.
 
@@ -40,6 +40,6 @@
 ## 📊 My GitHub Data:
 
 <div align="center">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=kasare9096494112&show_icons=true" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kasare9096494112&" alt="soumyajit" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=surykantkasare&show_icons=true" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=surykantkasare&" alt="surykantkasare" />
 </div>
