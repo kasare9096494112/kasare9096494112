@@ -61,7 +61,7 @@
 <!-- leetcode status -->
  <h2 align="center"><img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/LeetCode.png" width="20px"> LeetCode Stats Card </h2>
 <p align="center">
-  <a href="https://leetcode.com/kasare9096464112/" target="_blank">
-    <img width=50% src="https://leetcode.card.workers.dev/?username=kasare9096464112&theme=dark&extension=activity"/>
+  <a href="https://leetcode.com/Surykant_Kasare/" target="_blank">
+    <img width=50% src="https://leetcode.card.workers.dev/?username=Surykant_Kasare&theme=dark&extension=activity"/>
   </a>
 </p>
